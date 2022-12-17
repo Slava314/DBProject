@@ -15,6 +15,8 @@ insert into avia.clients(client_name, passport_number, citizenship)
     values ('Mewtwo','807867559', 'China');
 insert into avia.clients(client_name, passport_number, citizenship)
     values ('Slowpoke','723214142', 'USA');
+insert into avia.clients(client_name, passport_number, citizenship)
+    values ('Meowth','699416375', 'France');
 
 delete
     from avia.airplane_models;

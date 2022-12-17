@@ -4,9 +4,6 @@ drop schema if exists
 create schema
     avia;
 
-set
-    search_path = avia;
-
 drop table if exists avia.clients cascade;
 create table avia.clients (
     client_id       serial primary key,
