@@ -1,0 +1,12 @@
++-----------+------------+-------+
+|client_name|last_arrival|country|
++-----------+------------+-------+
+|Pikachu    |2022-03-13  |Turkey |
+|Squirtle   |2022-05-08  |England|
+|Mewtwo     |2022-07-26  |France |
+|Bulbasaur  |2022-09-16  |Russia |
+|Charmander |2022-10-12  |Finland|
+|Slowpoke   |2022-11-04  |Germany|
+|Eevee      |2022-11-15  |Germany|
+|Meowth     |null        |null   |
++-----------+------------+-------+

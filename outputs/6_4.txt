@@ -1,0 +1,13 @@
++-------------------+---------------------+--------+----------------+-------------+
+|flight_attendant_id|flight_attendant_name|pilot_id|pilot_name      |joint_flights|
++-------------------+---------------------+--------+----------------+-------------+
+|2                  |Applejack            |6       |Fluttershy      |1            |
+|2                  |Applejack            |3       |Rainbow Dash    |3            |
+|2                  |Applejack            |1       |Twilight Sparkle|1            |
+|4                  |Pinkie Pie           |6       |Fluttershy      |1            |
+|4                  |Pinkie Pie           |3       |Rainbow Dash    |2            |
+|4                  |Pinkie Pie           |1       |Twilight Sparkle|2            |
+|5                  |Rarity               |6       |Fluttershy      |1            |
+|5                  |Rarity               |3       |Rainbow Dash    |1            |
+|5                  |Rarity               |1       |Twilight Sparkle|1            |
++-------------------+---------------------+--------+----------------+-------------+
